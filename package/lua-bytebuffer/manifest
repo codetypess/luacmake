@@ -1,4 +1,4 @@
 return {
     target = "bytebuffer",
-    git = "https://github.com/luacmake/lua-bytebuffer.git",
+    git = "https://github.com/zhongfq/lua-bytebuffer.git",
 }

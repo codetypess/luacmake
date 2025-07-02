@@ -1,4 +1,4 @@
 return {
     target = "protobuf",
-    git = "https://github.com/luacmake/lua-pbc.git",
+    git = "https://github.com/zhandouxiaojiji/pbc.git",
 }

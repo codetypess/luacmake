@@ -7,7 +7,7 @@ return {
             branch = "OpenSSL_1_1_1d",
         },
         {
-            git = "https://github.com/luacmake/openssl-cmake.git",
+            git = "https://github.com/zhongfq/openssl-cmake.git",
         }
     }
 }
