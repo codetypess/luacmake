@@ -1,5 +1,5 @@
 return {
     target = "libpugixml",
-    git = "https://github.com/zhongfq/lua-pugixml.git",
+    git = "https://github.com/codetypess/lua-pugixml.git",
     branch = "main",
 }

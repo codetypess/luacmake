@@ -1,4 +1,4 @@
 return {
     target = "json5",
-    git = "https://github.com/zhongfq/lua-json5.git",
+    git = "https://github.com/codetypess/lua-json5.git",
 }
